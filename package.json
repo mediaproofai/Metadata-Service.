@@ -1,0 +1,11 @@
+{
+  "name": "metadata-service",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": "20.x" },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "exifr": "^7.1.3",
+    "file-type": "^18.7.0"
+  }
+}
